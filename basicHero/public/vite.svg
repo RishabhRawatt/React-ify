@@ -1,0 +1,206 @@
+
+
+
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0, 435 232" >
+
+
+    
+    <title>Nike Logo</title>
+  
+  <desc>A Nike Logo that I scripted in Pure SVG.</desc>
+    
+    <defs>
+        
+        <clipPath id="hole_in_capital_r">
+            
+            <path  d="M589, 381
+                            L514, 381
+                            L514, 527
+                            L580, 527
+                            C652.1, 525.5 667 486
+                            667, 451
+                            C667, 382.6 605 381
+                            589, 381z M430, 280 L623, 280
+                                                         C 740, 280, 808, 342
+                                                         808, 436
+                                                         C808, 522, 754.6, 566
+                                                         684, 581.5 
+                                                         C797, 611.4 829, 812
+                                                         829, 812
+                                                         
+                                                         C829, 839 788, 832
+                                                         
+                                                         758, 832
+                                                         
+                                                         C698.8, 832, 687, 824
+                                                         
+                                                         682, 812
+                                                         
+                                                         C667, 779.4 651, 679
+                                                         
+                                                         617, 648
+                                                         
+                                                         C582, 617
+                                                         
+                                                         516.4, 628
+                                                         
+                                                         514, 626
+                                                         
+                                                         L514, 811
+                                                         
+                                                         C514, 829.6 499, 832
+                                                         
+                                                         451, 832
+                                                         
+                                                         C388, 832 385, 818.3 
+                                                         385, 811
+                                                         
+                                                         L385, 333
+                                                         
+                                                         C385, 314 402, 280
+                                                         
+                                                         430, 280z"></path>
+        
+        </clipPath>
+    
+    
+    </defs>
+    
+    
+    
+    <g id="nike_image" class="transform translate" transform="translate(5,5)">
+        
+        <g id="tick_image">
+        
+            <path stroke="#000000" stroke-width="1" id="tick" d="M54.5, 76 C 47.57, 86.37, 44, 103.74  44, 116 44, 131.46 49.9, 157 90, 157 120, 157 238.5, 115.6 424, 70 L424, 71 L122, 202 C99, 211 87, 221 53, 221
+                                                                         
+        C 14.6, 221, 0, 198.4 0,178.5
+        C0, 146.1, 30, 101.7  54.5, 76Z"></path>
+            
+        </g>
+        
+      <g id="registered_trademark_images">
+        <g id="registered_trademark_image_i" class="transform translate scale"  transform="translate(65,135) scale(0.015625, 0.015625)" > 
+            
+            <title>Registered Trademark Calibri 700 points</title>
+
+            <circle stroke-width="105" stroke="#000000" fill="none" cx="594" cy="568" r="450"></circle>
+    
+            <path clip-path="url(#hole_in_capital_r)" id="capital_r_calibri_seven_hundred_points" d="M430, 280 L623, 280
+                                                         C 740, 280, 808, 342
+                                                         808, 436
+                                                         C808, 522, 754.6, 566
+                                                         684, 581.5 
+                                                         C797, 611.4 829, 812
+                                                         829, 812
+                                                         
+                                                         C829, 839 788, 832
+                                                         
+                                                         758, 832
+                                                         
+                                                         C698.8, 832, 687, 824
+                                                         
+                                                         682, 812
+                                                         
+                                                         C667, 779.4 651, 679
+                                                         
+                                                         617, 648
+                                                         
+                                                         C582, 617
+                                                         
+                                                         516.4, 628
+                                                         
+                                                         514, 626
+                                                         
+                                                         L514, 811
+                                                         
+                                                         C514, 829.6 499, 832
+                                                         
+                                                         451, 832
+                                                         
+                                                         C388, 832 385, 818.3 
+                                                         385, 811
+                                                         
+                                                         L385, 333
+                                                         
+                                                         C385, 314 402, 280
+                                                         
+                                                         430, 280z"></path>
+        
+        </g>
+        
+        <g id="registered_trademark_image_ii" class="transform translate scale"  transform="translate(335,0) scale(0.015625, 0.015625)" > 
+            
+            <title>Registered Trademark Calibri 700 points</title>
+
+            <circle stroke-width="105" stroke="#000000" fill="none" cx="594" cy="568" r="450"></circle>
+    
+            <path clip-path="url(#hole_in_capital_r)" id="capital_r_calibri_seven_hundred_points" d="M430, 280 L623, 280
+                                                         C 740, 280, 808, 342
+                                                         808, 436
+                                                         C808, 522, 754.6, 566
+                                                         684, 581.5 
+                                                         C797, 611.4 829, 812
+                                                         829, 812
+                                                         
+                                                         C829, 839 788, 832
+                                                         
+                                                         758, 832
+                                                         
+                                                         C698.8, 832, 687, 824
+                                                         
+                                                         682, 812
+                                                         
+                                                         C667, 779.4 651, 679
+                                                         
+                                                         617, 648
+                                                         
+                                                         C582, 617
+                                                         
+                                                         516.4, 628
+                                                         
+                                                         514, 626
+                                                         
+                                                         L514, 811
+                                                         
+                                                         C514, 829.6 499, 832
+                                                         
+                                                         451, 832
+                                                         
+                                                         C388, 832 385, 818.3 
+                                                         385, 811
+                                                         
+                                                         L385, 333
+                                                         
+                                                         C385, 314 402, 280
+                                                         
+                                                         430, 280z"></path>
+        
+        </g>
+        
+        </g>
+      
+      <g id="Nike_letters">
+        
+        <g id="n_slanted_capital">
+          <path d="M58, 115 L101,0 L130, 0 L127, 50 L146,0 L173, 0 L130, 115 L101, 115 L103.5 66.5 L85, 115 L58, 115Z"></path>
+        </g>
+        <g id="i_slanted_capital">
+          <path d="M117,0 L204, 0 L161, 115 L134, 115 L177,0Z"></path>
+        </g>
+        <g id="k_slanted_capital">
+          
+          <path d="M208,0 L236, 0 L224, 33 L251,0 L280,0 L238, 47 L239, 115 L212.5 115 L211, 69 L193, 115 L166, 115 L208,0 Z"></path>
+          
+        </g>
+        <g id="e_slanted_capital">
+          <path d="M335,0 L280,0 L238, 115 L295.5 115 L304, 93 L273, 93 283, 65 L309, 65 L317, 43.5 L291, 43.5 L300, 19 L328, 19 L335, 0 Z"></path>
+        </g>
+        
+      </g>
+    
+    </g>
+    
+    
+</svg>

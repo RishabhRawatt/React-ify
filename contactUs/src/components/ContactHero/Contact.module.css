@@ -1,0 +1,18 @@
+
+.contact{
+    margin: 3rem 13.5rem;
+}
+
+.contact h1{
+    font-size: 48px;
+    font-weight: 800;
+    text-transform: uppercase;
+    /* background-color: blue; */
+    margin-bottom: 0;
+}
+
+.contact p{
+    font-weight: 600;
+    color: #5A5959;
+    /* background-color: yellow; */
+}
