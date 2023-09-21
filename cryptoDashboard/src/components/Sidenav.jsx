@@ -29,7 +29,7 @@ const Sidenav = () => {
         base: "full",
         lg: "16rem",
       }}
-      h="100vh"
+      h="100%"
     >
       <Box>
         <Heading fontSize="20px" as="h1" pt="3.5rem" textAlign="center">
@@ -57,7 +57,7 @@ const Sidenav = () => {
           ))}
         </Box>
       </Box>
-      <Box mt="6" mx="3" mb="6px">
+      <Box mt="6" mx="3" mb="6px" position="sticky" bottom="4">
         <HStack
           borderRadius="10px"
           py="3"
