@@ -1,5 +1,7 @@
+import DashboardLayout from "../../components/DashboardLayout";
+
 const Support = () => {
-  return <div></div>;
+  return <DashboardLayout></DashboardLayout>;
 };
 
 export default Support;
