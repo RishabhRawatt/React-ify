@@ -30,6 +30,7 @@ const Sidenav = () => {
         base: "full",
         lg: "16rem",
       }}
+      minH="100vh"
       h="100%"
     >
       <Box>

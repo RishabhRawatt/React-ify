@@ -109,6 +109,38 @@ export const theme = extendTheme(
           borderRadius: "10px",
         },
       },
+      FormLabel: {
+        baseStyle: {
+          fontSize: "sm",
+        },
+      },
+      Input: {
+        variants: {
+          outline: {
+            field: {
+              h: "38px",
+              borderRadius: "8px",
+              fontSize: "sm",
+              _focus: {
+                boxShadow: "0 0 0 1px #5f00d9",
+              },
+            },
+          },
+        },
+      },
+
+      Textarea: {
+        variants: {
+          outline: {
+            h: "38px",
+            borderRadius: "8px",
+            fontSize: "sm",
+            _focus: {
+              boxShadow: "0 0 0 1px #5f00d9",
+            },
+          },
+        },
+      },
     },
   },
   withDefaultColorScheme({ colorScheme: "purple" })
